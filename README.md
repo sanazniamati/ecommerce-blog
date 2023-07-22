@@ -1,7 +1,5 @@
-secend time i want to test git reset
+test git commit 1
 
-test git reset git commit 1
+test git commit 2
 
-test git reset git commit 2
-
-test git reset git commit 3
+test git commit 3
